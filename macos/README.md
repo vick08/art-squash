@@ -58,3 +58,7 @@ Entries are written to VoiceOver's preferences in
 (`default.plist`, plus timestamps in `journal.plist`), in the same format
 VoiceOver Utility uses. The files are kept in binary plist format, which is
 required to store U+0000.
+
+## License
+
+Copyright (c) 2026 Victor Tsaran. Released under the [MIT License](LICENSE).

@@ -1,3 +1,5 @@
+// Copyright (c) 2026 Victor Tsaran. Released under the MIT License; see the LICENSE file.
+
 import AppKit
 import Foundation
 

@@ -33,5 +33,10 @@ in `nvda/addon/globalPlugins/artSquash/__init__.py`.
 
 ## License
 
-The NVDA add-on in [`nvda/`](nvda/) is released under the GNU General Public
-License, version 2 or later. See [`nvda/LICENSE`](nvda/LICENSE).
+Each platform has its own license:
+
+- The VoiceOver tool in [`macos/`](macos/) is released under the MIT License.
+  See [`macos/LICENSE`](macos/LICENSE).
+- The NVDA add-on in [`nvda/`](nvda/) is released under the GNU General Public
+  License, version 2 or later, the same license as NVDA itself. See
+  [`nvda/LICENSE`](nvda/LICENSE).
