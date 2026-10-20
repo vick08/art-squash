@@ -1,5 +1,7 @@
 # Art Squash: silences decorative box-drawing and block characters in chosen applications.
 # Copyright (C) 2026 Victor Tsaran
+# This file is covered by the GNU General Public License, version 2 or later.
+# See the file LICENSE for more details.
 
 import re
 

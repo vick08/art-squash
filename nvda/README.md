@@ -80,3 +80,9 @@ python3 build.py
 ```
 
 The package is written to `dist/artSquash-<version>.nvda-addon`.
+
+## License
+
+Copyright (C) 2026 Victor Tsaran. Released under the
+[GNU General Public License](LICENSE), version 2 or later, the same license as
+NVDA itself.

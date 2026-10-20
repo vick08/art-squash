@@ -30,3 +30,8 @@ Both tools silence the same range, U+2500–259F (Box Drawing and Block
 Elements). If the range changes, update it in both places:
 `squashedScalars` in `macos/Sources/vo-art-squash/main.swift` and `ART_PATTERN`
 in `nvda/addon/globalPlugins/artSquash/__init__.py`.
+
+## License
+
+The NVDA add-on in [`nvda/`](nvda/) is released under the GNU General Public
+License, version 2 or later. See [`nvda/LICENSE`](nvda/LICENSE).
