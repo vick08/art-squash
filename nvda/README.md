@@ -9,7 +9,7 @@ characters, and NVDA reads them aloud. Art Squash removes them from speech
 before it reaches the synthesizer, so you hear only the text inside the frames.
 
 Part of [Art Squash](../README.md). The VoiceOver version for macOS is in
-[`../macos`](../macos/).
+[`../voiceover`](../voiceover/).
 
 > **Status: still being tested.** This add-on has not yet been fully tested
 > with NVDA on Windows. Expect rough edges, and please report problems as

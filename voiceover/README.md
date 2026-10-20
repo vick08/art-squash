@@ -27,7 +27,7 @@ Reports of success on other macOS versions are welcome.
 
 ## Build
 
-From this folder (`macos/`):
+From this folder (`voiceover/`):
 
 ```
 swift build -c release
