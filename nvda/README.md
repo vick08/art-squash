@@ -8,8 +8,12 @@ Antigravity, Pi-agent, …) draw frames, borders and progress bars with these
 characters, and NVDA reads them aloud. Art Squash removes them from speech
 before it reaches the synthesizer, so you hear only the text inside the frames.
 
-It is the NVDA counterpart of
-[vo-art-squash](https://github.com/vick08/vo-art-squash) for VoiceOver on macOS.
+Part of [Art Squash](../README.md). The VoiceOver version for macOS is in
+[`../macos`](../macos/).
+
+> **Status: still being tested.** This add-on has not yet been fully tested
+> with NVDA on Windows. Expect rough edges, and please report problems as
+> GitHub issues. Releases are marked as pre-releases until testing is done.
 
 ## Features
 
@@ -68,7 +72,8 @@ Input Gestures), under the **Art Squash** category:
 
 ## Building
 
-The add-on is pure Python, so building only means zipping the `addon` folder:
+The add-on is pure Python, so building only means zipping the `addon` folder.
+From this folder (`nvda/`):
 
 ```
 python3 build.py

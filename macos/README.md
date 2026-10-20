@@ -1,4 +1,6 @@
-# vo-art-squash
+# Art Squash for VoiceOver (macOS)
+
+Part of [Art Squash](../README.md). The NVDA version is in [`../nvda`](../nvda/).
 
 A small macOS command-line tool that silences decorative box-drawing and block
 characters (U+2500–259F: `─│╭╮╰╯├═║█▀▄░▒▓` …) for the VoiceOver screen reader.
@@ -24,6 +26,8 @@ replaces it with a NUL character so nothing is spoken.
 Reports of success on other macOS versions are welcome.
 
 ## Build
+
+From this folder (`macos/`):
 
 ```
 swift build -c release
